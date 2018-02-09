@@ -2,7 +2,7 @@
 
 int func
 {
-   return 3333;
+   return 333;
 
 }
 
