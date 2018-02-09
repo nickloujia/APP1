@@ -2,5 +2,5 @@
 
 int main()
 {
-	printf("This is a hello world from git\n");
+	printf("Have func!!This is a hello world from git\n");
 }
